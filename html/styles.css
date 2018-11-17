@@ -1,12 +1,89 @@
 .card-heading {
-    font-family: MONTSERRAT BOLD;
+    font-family: MONTSERRAT;
+    font-color: #133D56;
+    font-weight: bold;
+    color: #133D56;
 }
 
 .card-sub-heading {
-    font-family: Vollkorn italic;
+    font-family: Vollkorn;
+    font-style: italic;
     font-size: 75%;
+    font-weight: normal;
+    color: #58AAA3;
 }
 
 .card-content {
     font-family: Montserrat regular;
 }
+
+.card-text {
+  color: #133D56;
+}
+
+.card-body {
+  background-color: #EFF1F0;
+}
+
+.btn {
+  border: 2px solid #58AAA3;
+  border-radius: 25px;
+  background: #58AAA3;
+  color: white;
+}
+
+.btn:hover, .btn:focus, .btn:active {
+  border: 2px solid #58AAA3;
+  border-radius: 25px;
+  background: white;
+  color: #58AAA3;
+}
+
+
+/* .btn {
+    padding: 14px 24px;
+    border: 0 none;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.btn:focus, .btn:active:focus, .btn.active:focus {
+    outline: 0 none;
+}
+
+.btn-primary {
+    background: #0099cc;
+    color: #ffffff;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: #33a6cc;
+}
+
+.btn-primary:active, .btn-primary.active {
+    background: #007299;
+    box-shadow: none;
+} */
+/*
+.btn.cardlink {
+	background: none;
+	padding: 12px 22px;
+  border-radius: 15px;
+}
+
+.btn-primary.cardlink {
+	border: 2px solid #0099cc;
+	color: #0099cc;
+}
+
+.btn-primary.cardlink:hover, .btn-primary.cardlink:focus, .btn-primary.cardlink:active, .btn-primary.cardlink.active, .open > .dropdown-toggle.btn-primary {
+	color: #33a6cc;
+	border-color: #33a6cc;
+}
+
+.btn-primary.cardlink:active, .btn-primary.cardlink.active {
+	border-color: #007299;
+	color: #007299;
+	box-shadow: none;
+} */
