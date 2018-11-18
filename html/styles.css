@@ -18,7 +18,7 @@
 }
 
 .card-heading {
-    font-family: MONTSERRAT;
+    font-family: 'Montserrat', sans-serif;
     font-color: #133D56;
     font-weight: bold;
     color: #133D56;
@@ -29,7 +29,7 @@
 }
 
 .card-sub-heading {
-    font-family: Vollkorn;
+    font-family: 'Vollkorn', serif;
     font-style: italic;
     font-size: 75%;
     font-weight: normal;
@@ -38,7 +38,7 @@
 
 .card-text {
   color: #133D56;
-  font-family: MONTSERRAT;
+  font-family: 'Montserrat', sans-serif;
   font-size: large;
 }
 

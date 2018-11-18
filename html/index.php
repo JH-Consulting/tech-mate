@@ -22,12 +22,12 @@
           <br><br>
           <ul class="card-text">
             <li>In house graphic designer</li>
-            <li>Web page</li>
+            <li>Web pages</li>
             <li>Online collaboration tools</li>
             <li>Social media</li>
             <li>Advertising</li>
           </ul>
-          <a href="home.php"class="btn btn-primary btn-sm">More information</a>
+          <a href="business.php"class="btn btn-primary btn-sm">More information</a>
         </div>
       </div>
     </div>
@@ -46,7 +46,7 @@
             <li>Home network support</li>
             <li>Home movie and photo backup</li>
           </ul>
-          <a href="business.php"class="btn btn-primary btn-sm">More information</a>
+          <a href="home.php"class="btn btn-primary btn-sm">More information</a>
         </div>
       </div>
     </div>

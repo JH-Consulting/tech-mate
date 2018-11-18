@@ -1,17 +1,99 @@
-<!doctype html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link rel="stylesheet" href="styles.css" />
-    <title>Tech Mate</title>
-  </head>
-  <body class="mdl-demo mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">
-    <?php include 'header.php';?>
-      Home solutions
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-  </body>
-</html>
+<?php include 'header.php';?>
+<div class="row">
+  <div class="col-sm-6">
+    <div class="card m-4 shadow-sm">
+      <div class="card-body">
+        <h3 class="card-heading">HOME SOLUTIONS
+          <br>
+          <div class="card-sub-heading">Making home tech easy</div>
+        </h3>
+        <p class="card-text">
+          Tech Mate strives to make the home solutions we provide intuative to use, easy to maintian and on a budget everyone can afford.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <div class="card m-4 shadow-sm">
+      <div class="card-body">
+        <h4 class="card-heading">Family communication</h4>
+        <div class="card-text">
+          Setup a simple and easy to use family communication.  Utilising everything from group chats, to newsletters and video phone.
+          <br><br><a href="#"class="btn btn-primary btn-sm">More information</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <div class="card m-4 shadow-sm">
+      <div class="card-body">
+        <h4 class="card-heading">Show on TV</h4>
+        <div class="card-text">
+          With some simple technology, an HDMI TV and a wifi network, setup you TV to show everything from photos and home movies to Netflix.
+          <br><br>
+          <ul class="card-text">
+            <li>Photos and home movies</li>
+            <li>Use the TV as a digital photo frame when not in use</li>
+            <li>Netflix and Stan on the TV</li>
+          </ul>
+          <a href="#"class="btn btn-primary btn-sm">More information</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-4">
+    <div class="card m-4 shadow-sm">
+      <div class="card-body">
+        <h4 class="card-heading">Online privacy</h4>
+        <div class="card-text">
+          In today's climate it pays to have a level on online privacy and security.
+          <br><br>
+          <ul class="card-text">
+            <li>VPN - Virtual Private Network</li>
+            <li>Secure password management</li>
+            <li>Safe and secure online shopping</li>
+          </ul>
+          <a href="#"class="btn btn-primary btn-sm">More information</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    <div class="card m-4 shadow-sm">
+      <div class="card-body">
+        <h4 class="card-heading">Network Support</h4>
+        <div class="card-text">
+          Setup your home network to utilise it's full potential.
+          <br><br>
+          <ul class="card-text">
+            <li>Network speed and reliability</li>
+            <li>Wifi security</li>
+            <li>Wifi area extensions</li>
+            <li>Wifi monitoring</li>
+            <li>Kid controls</li>
+          </ul>
+          <a href="#"class="btn btn-primary btn-sm">More information</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    <div class="card m-4 shadow-sm">
+      <div class="card-body">
+        <h4 class="card-heading">Document and photo backup </h4>
+        <div class="card-text">
+          Computers and hard drives fail every day.  What will happen to your important documents, information or photos if your's fails?
+          <br><br>
+          <ul class="card-text">
+            <li>Online storage for all budgets and requirements</li>
+            <li>Little or no ongoing costs</li>
+          </ul>
+          <a href="#"class="btn btn-primary btn-sm">More information</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<?php include 'footer.php';?>
