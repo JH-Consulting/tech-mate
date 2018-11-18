@@ -1,8 +1,31 @@
+.navbar {
+  background-color: #133D56;
+}
+
+.navbar-brand, .nav-link, .navbar-brand:hover, .navbar-brand:focus, .navbar-brand:active, .nav-link:hover, .nav-link:focus, .nav-link:active {
+  color: #EFF1F0
+}
+
+.navbar-brand:hover, .navbar-brand:focus, .navbar-brand:active, .nav-link:hover, .nav-link:focus, .nav-link:active {
+  color: white
+}
+
+.btn:hover, .btn:focus, .btn:active {
+  border: 2px solid #58AAA3;
+  border-radius: 25px;
+  background: #EFF1F0;
+  color: #58AAA3;
+}
+
 .card-heading {
     font-family: MONTSERRAT;
     font-color: #133D56;
     font-weight: bold;
     color: #133D56;
+}
+
+.card-heading-icon {
+  color: #58AAA3;
 }
 
 .card-sub-heading {
@@ -13,12 +36,10 @@
     color: #58AAA3;
 }
 
-.card-content {
-    font-family: Montserrat regular;
-}
-
 .card-text {
   color: #133D56;
+  font-family: MONTSERRAT;
+  font-size: large;
 }
 
 .card-body {
@@ -35,7 +56,7 @@
 .btn:hover, .btn:focus, .btn:active {
   border: 2px solid #58AAA3;
   border-radius: 25px;
-  background: white;
+  background: #EFF1F0;
   color: #58AAA3;
 }
 

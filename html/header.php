@@ -11,7 +11,7 @@
   <body class="mdl-demo mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">
     <div class="row">
       <div class="col-sm-12">
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav class="navbar navbar-expand-lg">
           <a class="navbar-brand" href="#">
             <img src="images/header-logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
             Tech Mate

@@ -16,9 +16,10 @@
   <div class="col-sm-3">
     <div class="card m-4 shadow-sm">
       <div class="card-body">
-        <h5 class="card-heading"><i class="fas fa-building"></i>&nbsp;Business Solutions</h5>
-        <p class="card-text">
-          For businesses the services we provide range of services that can help a business move into or expand thier online presence.
+        <h4 class="card-heading"><i class="fas fa-building card-heading-icon"></i>&nbsp;Business Solutions</h5>
+        <div class="card-text">
+          For businesses the ser vices we provide range of services that can help a business move into or expand thier online presence.
+          <br><br>
           <ul class="card-text">
             <li>In house graphic designer</li>
             <li>Web page</li>
@@ -28,23 +29,25 @@
           </ul>
           <a href="home.php"class="btn btn-primary btn-sm">More information</a>
         </div>
+      </div>
     </div>
   </div>
   <div class="col-sm-3">
     <div class="card m-4 shadow-sm">
       <div class="card-body">
-        <h5 class="card-heading"><i class="fas fa-home"></i>&nbsp;Home Solutions</h5>
-        <p class="card-text">
-          At home we can provide help with all the tech problems that people face at home.
+        <h4 class="card-heading"><i class="fas fa-home card-heading-icon"></i>&nbsp;Home Solutions</h5>
+        <div class="card-text">
+          We provide help and solutions to all the tech problems that people face at home.  Our solutions are designed to be easy to use and maintain.
+          <br><br>
           <ul class="card-text">
             <li>Family communication</li>
             <li>Get Netflix on the TV</li>
             <li>Online privacy</li>
-            <li>Home networks</li>
+            <li>Home network support</li>
             <li>Home movie and photo backup</li>
           </ul>
           <a href="business.php"class="btn btn-primary btn-sm">More information</a>
-        </p>
+        </div>
       </div>
     </div>
   </div>
