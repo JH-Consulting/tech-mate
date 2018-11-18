@@ -17,7 +17,7 @@
   color: #58AAA3;
 }
 
-.card-heading {
+.card-heading, .modal-header {
     font-family: 'Montserrat', sans-serif;
     font-color: #133D56;
     font-weight: bold;
@@ -36,13 +36,13 @@
     color: #58AAA3;
 }
 
-.card-text {
+.card-text, .modal-body {
   color: #133D56;
   font-family: 'Montserrat', sans-serif;
   font-size: large;
 }
 
-.card-body {
+.card-body, .modal-body {
   background-color: #EFF1F0;
 }
 
