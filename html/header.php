@@ -7,12 +7,14 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Montserrat|Vollkorn" rel="stylesheet">
     <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" type="text/css" href="./scripts/fullpage/fullpage.css" />
+    <script type="text/javascript" src="./scripts/fullpage/fullpage.js"></script>
     <title>Tech Mate</title>
   </head>
   <body class="mdl-demo mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">
     <div class="row">
       <div class="col-sm-12">
-        <nav class="navbar navbar-expand-lg">
+        <nav class="navbar sticky-top navbar-expand-sm">
           <a class="navbar-brand" href="#">
             <img src="images/header-logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
             Tech Mate
@@ -21,7 +23,7 @@
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav ml-md-auto">
               <li class="nav-item active">
                 <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
               </li>
@@ -35,7 +37,7 @@
                 <a class="nav-link" href="partners.php">Partners</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.php">Contact</a>
+                <a class="btn btn2 header-btn-sm btn-primary btn-sm" href="contact.php">Contact Us</a>
               </li>
           </div>
         </nav>
