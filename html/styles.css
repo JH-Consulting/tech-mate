@@ -35,6 +35,10 @@
   background-color: #133D56;
 }
 
+.hint-card {
+  margin-bottom: 25px;
+}
+
 .blue-card-heading {
   color: #EFF1F0;
 }
@@ -130,4 +134,22 @@
   position: absolute;
   bottom: 0;
   left: 0;
+}
+
+.secondary-page {
+  margin: 25px;
+  margin-top: 50px;
+}
+
+.page-description-text {
+  color: #133D56;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 250%;
+}
+
+.page-content-text {
+  padding-top: 50px;
+  color: #133D56;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 150%;
 }
