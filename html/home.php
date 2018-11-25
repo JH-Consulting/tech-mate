@@ -4,7 +4,7 @@
     <div class="row">
       <div class="col-sm-12">
         <div class="page-description-text">
-          Tech Mate strives to make the home solutions we provide intuative to use, easy to maintian and on a budget everyone can afford.
+          Tech Mate strives to make the home solutions we provide intuative to use, easy to maintain and on a budget everyone can afford.
         </div>
       </div>
     </div>
