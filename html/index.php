@@ -43,7 +43,7 @@
               <div class="card-sub-heading blue-card-sub-heading">Grow your business with technology</div>
             </h3>
             <p class="card-text blue-card-text">
-              We provide a range of services designed to help a business reach more potential customers.
+              We provide a range of services designed to help your business reach more potential customers.
             </p>
           </div>
         </div>

@@ -37,7 +37,7 @@
                 <a class="nav-link" href="partners.php">Partners</a>
               </li>
               <li class="nav-item">
-                <a class="btn btn2 header-btn-sm btn-primary btn-sm" href="contact.php">Contact Us</a>
+                <a class="btn btn2 header-btn-sm btn-primary btn-sm" style="padding-left: 30px; padding-right: 30px;" href="contact.php">Contact Us</a>
               </li>
           </div>
         </nav>
