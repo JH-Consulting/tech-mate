@@ -2,5 +2,12 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/user/public_html/
-    - /bin/cp /html/* $DEPLOYPATH
-    - /bin/cp /html/images/* $DEPLOYPATH/images
+    - /bin/cp ./html/business.php $DEPLOYPATH
+    - /bin/cp ./html/contact.php $DEPLOYPATH
+    - /bin/cp ./html/footer.php $DEPLOYPATH
+    - /bin/cp ./html/header.php $DEPLOYPATH
+    - /bin/cp ./html/home.php $DEPLOYPATH
+    - /bin/cp ./html/index.php $DEPLOYPATH
+    - /bin/cp ./html/partners.php $DEPLOYPATH
+    - /bin/cp ./html/styles.css $DEPLOYPATH
+    - /bin/cp ./html/images/header-logo.png $DEPLOYPATH/images
