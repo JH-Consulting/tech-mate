@@ -153,3 +153,20 @@
   font-family: 'Montserrat', sans-serif;
   font-size: 150%;
 }
+
+.contact-form {
+  padding-top: 50px;
+}
+
+.contact-form-heading {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #133D56;
+  font-size: 200%;
+  text-align: center;
+}
+
+.contact-form-btn {
+    padding-left: 50px;
+    padding-right: 50px;
+}

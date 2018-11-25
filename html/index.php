@@ -65,7 +65,7 @@
     </div>
   </div>
 	<div class="section" id="section2">
-    <h1>Just the simplest demo ever</h1>
+    <?php include 'contact-form.php';?>
   </div>
 </div>
 
