@@ -3,11 +3,17 @@
   <div class="col-sm-4">
     <div class="contact-form-heading">GET IN TOUCH</div>
     <form class="contact-form" method="post" action="send-contact-email.php">
-    <div class="form-row">
-      <div class="form-group col-md-12">
-        <input type="text" class="form-control mb-2 mr-sm-2" id="name" placeholder="Name">
+
+      <div class="form-row">
+        <div class="form-group col-md-12">
+          <div class="input-group mb-2">
+            <div class="input-group-prepend">
+              <div class="input-group-text"><i class="fas fa-user-circle"></i></div>
+            </div>
+            <input type="text" class="form-control" id="name" placeholder="Name">
+          </div>
+        </div>
       </div>
-    </div>
 
     <div class="form-row">
       <div class="form-group col-md-12">
