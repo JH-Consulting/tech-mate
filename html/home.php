@@ -4,7 +4,7 @@
     <div class="row">
       <div class="col-sm-12">
         <div class="page-description-text">
-          Tech Mate strives to make the home solutions we provide intuative to use, easy to maintain and on a budget everyone can afford.
+          Tech Mate creates home solutions that are intuative to use, easy to maintain and on a budget everyone can afford.
         </div>
       </div>
     </div>
@@ -12,8 +12,8 @@
       <div class="col-sm-12">
         <div class="page-content-text">
           The solutions we provide range from simple and easy to use family communication to utilising your TV to view photos, videos and movies.
-          We also want our clients to have confidence and peace of mind when at home.  For this we provide consultion on online privacy and security for using the internt,
-          home networks and secure backup strategies for documents and photos and home movies.
+          We want our clients to have confidence and peace of mind with the technology they have around the house.  We prepare our clients with 
+          the knowledge needed to feel secure and positive moving forward.
         </div>
       </div>
     </div>
@@ -77,7 +77,7 @@
               Ensure your home network is utilising it's full potential for students, home business or general usage.
               <br><br>
                 Extend wifi range<br>
-                Install netwrok printers<br>
+                Install network printers<br>
                 Security<br>
             </p>
           </div>
