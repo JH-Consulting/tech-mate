@@ -4,7 +4,7 @@
     <div class="row">
       <div class="col-sm-12">
         <div class="page-description-text">
-          Tech Mate creates home solutions that are intuative to use, easy to maintain and on a budget everyone can afford.
+          Tech Mate creates home solutions that are intuitive to use, easy to maintain and on a budget everyone can afford.
         </div>
       </div>
     </div>
@@ -12,7 +12,7 @@
       <div class="col-sm-12">
         <div class="page-content-text">
           The solutions we provide range from simple and easy to use family communication to utilising your TV to view photos, videos and movies.
-          We want our clients to have confidence and peace of mind with the technology they have around the house.  We prepare our clients with 
+          We want our clients to have confidence and peace of mind with the technology they have around the house.  We prepare our clients with
           the knowledge needed to feel secure and positive moving forward.
         </div>
       </div>
