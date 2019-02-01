@@ -1,6 +1,6 @@
 <?php include 'header.php';?>
 <div id="fullpage">
-	<div class="section active" id="section0">
+	<div class="section active" id="section0" data-anchor="mainSlide">
     <div class="row">
       <div class="col-sm-10">
         <div class="index-card-body card-body">
@@ -19,7 +19,7 @@
       </div>
     </div>
   </div>
-	<div class="section" id="section1">
+	<div class="section" id="section1" data-anchor="detailsSlide">
     <div class="row">
       <div class="col-sm-1"></div>
       <div class="col-sm-3">
@@ -64,7 +64,7 @@
       <div class="col-sm-1"></div>
     </div>
   </div>
-	<div class="section" id="section2">
+	<div class="section" id="section2" data-anchor="contactSlide">
     <?php include 'contact-form.php';?>
   </div>
 </div>

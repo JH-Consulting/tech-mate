@@ -170,3 +170,19 @@
     padding-left: 50px;
     padding-right: 50px;
 }
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  font-family: 'Vollkorn', serif;
+  font-style: italic;
+    color: grey;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  font-family: 'Vollkorn', serif;
+  font-style: italic;
+  color: grey;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+    color: grey;
+}
