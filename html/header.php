@@ -9,6 +9,23 @@
     <link rel="stylesheet" href="./styles.css" />
     <link rel="stylesheet" type="text/css" href="./scripts/fullpage/fullpage.css" />
     <script type="text/javascript" src="./scripts/fullpage/fullpage.js"></script>
+    <style>
+      #section0{
+    		background-image: url(images/tech-mate-main.png);
+        background-repeat: no-repeat;
+        background-position: right;
+    	}
+      #section1{
+    		background-image: url(images/tech-mate-main.png);
+        background-repeat: no-repeat;
+        background-position: right;
+    	}
+      #section2{
+    		background-image: url(images/tech-mate-main.png);
+        background-repeat: no-repeat;
+        background-position: right;
+    	}
+    </style>
     <title>Tech Mate</title>
   </head>
   <body class="mdl-demo mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">

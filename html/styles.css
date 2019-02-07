@@ -71,7 +71,7 @@
     font-size: 250%;
 }
 
-.card-body, .modal-body {
+.modal-body {
   background-color: #EFF1F0;
 }
 
@@ -81,6 +81,7 @@
 
 .index-card-body {
   margin-top: 15%;
+    opacity: 4;
 }
 
 .btn, .index-btn {
