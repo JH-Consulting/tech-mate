@@ -26,6 +26,7 @@
         background-position: right;
     	}
     </style>
+    <meta name="google-site-verification" content="r0rI1H89Q8UoOMaoC6llKh37l41cQJnXBsOTiYgQ-hE" />
     <title>Tech Mate</title>
   </head>
   <body class="mdl-demo mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">
